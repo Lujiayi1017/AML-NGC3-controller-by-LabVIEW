@@ -1,1 +1,3 @@
 # AML-NGC3-controller-by-LabVIEW
+
+The readme file is coming soon...
